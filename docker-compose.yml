@@ -22,7 +22,17 @@ services:
       - database
     networks:
       - spring_net
+      - frontend_net
+
+  frontend:
+    build: ./frontend
+    ports:
+      - 3000:3000
+    networks:
+      - frontend_net
 
 networks:
   spring_net:
     driver: bridge 
+  frontend_net:
+    driver: bridge
