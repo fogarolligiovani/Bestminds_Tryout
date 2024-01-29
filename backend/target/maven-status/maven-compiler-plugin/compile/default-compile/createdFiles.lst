@@ -1,0 +1,7 @@
+com\bestminds\nunessports\backend\model\produtoEntity.class
+com\bestminds\nunessports\backend\userService\prodService.class
+com\bestminds\nunessports\backend\controller\ProdutosController.class
+com\bestminds\nunessports\backend\NunesSportsBackendApplication.class
+com\bestminds\nunessports\backend\model\produtosRepository.class
+com\bestminds\nunessports\backend\model\produtoRequestDTO.class
+com\bestminds\nunessports\backend\model\produtoResponseDTO.class
