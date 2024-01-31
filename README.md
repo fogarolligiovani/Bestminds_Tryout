@@ -11,7 +11,7 @@ Outros: 🐋 Docker
 ## Problemas conhecidos
 
 - Pagina web não atualiza automaticamente os produtos, basta dar refresh que a tabela vai ser atualizada caso não tenha nenhum erro. -> Falha e solução conhecida
-- Produto não é adicionado no database caso não tenha um cadastrado -> Falha desconhecida e solução temporaria: [ver problemas conhecidos](#Problemas-Conhecidos)
+- Produto não é adicionado no database caso não tenha um cadastrado -> Falha desconhecida e solução temporaria: [ver problemas conhecidos](#Soluções-Problemas)
 
 ## Avisos e instalação
 
@@ -112,7 +112,7 @@ Caso não dê nenhum erro, a webpage estará online em
 > http://localhost:3000
 
 
-### Problemas Conhecidos
+### Soluções Problemas
 
 Disparar uma requisição Post via software de API na seguinte url deve resolver o problema: 
 
