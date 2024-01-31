@@ -11,7 +11,7 @@ Outros: 🐋 Docker
 ## Problemas conhecidos
 
 - Pagina web não atualiza automaticamente os produtos, basta dar refresh que a tabela vai ser atualizada caso não tenha nenhum erro. -> Falha e solução conhecida
-- Produto não é adicionado no database caso não tenha um cadastrado -> Falha desconhecida e solução temporaria: [ver problemas conhecidos](#ProblemasConhecidos)
+- Produto não é adicionado no database caso não tenha um cadastrado -> Falha desconhecida e solução temporaria: [ver problemas conhecidos](#Problemas-Conhecidos)
 
 ## Avisos e instalação
 
